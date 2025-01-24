@@ -1,0 +1,22 @@
+{
+    "hello": "Hi! I'm Nishad's Chatbot. How can I assist you today?",
+    "how are you": "I'm doing great! How about you?",
+    "what is your name": "I am Nishad's Chatbot, your virtual assistant. to know about my ownwer just go through his resume 'https://nishad.rf.gd/Nishad_Shajahan_cv.pdf'",
+    "who is Nishad": "Nishad is a developer from Karunagappally, Kollam, passionate about creating websites and chatbots.",
+    "what projects has Nishad worked on": "Nishad has worked on a furniture store website, a makeup store admin panel, a gym management system, and more.",
+    "tell me a joke": "Why don't skeletons fight each other? Because they don't have the guts!",
+    "what time is it": "The current time is [dynamic:time].",
+    "what is the date today": "Today's date is [dynamic:date].",
+    "bye": "Goodbye! Take care, and feel free to reach out anytime.",
+    "what do you know about Python": "Python is a high-level programming language that's easy to learn and widely used for web development, AI, and data science.",
+    "what is flask": "Flask is a lightweight Python web framework that's great for building web applications quickly.",
+    "what is HTML": "HTML stands for HyperText Markup Language and is used to structure content on the web.",
+    "tell me a riddle": "What has keys but can't open locks? Answer: A piano!",
+    "how to learn Angular": "Start by learning the basics of TypeScript, then explore Angular's core concepts like components, modules, and data binding.",
+    "recommend a travel destination": "Have you considered visiting Bharanganam, Pala in Kottayam? It's a beautiful place!",
+    "who created you": "I was created by Nishad to assist and answer your questions.",
+    "what are Nishad's skills": "Nishad is skilled in web development, chatbot creation, Firebase, Angular, and more.",
+    "what is the meaning of life": "42. Just kidding! It's whatever you make of it.",
+    "i love u": "i love u too oolee",
+    "send your resume ": " https://nishad.rf.gd/Nishad_Shajahan_cv.pdf" 
+}
